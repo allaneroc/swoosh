@@ -25,4 +25,6 @@
     <string name="beginner_on">BEGINNER_on</string>
     <string name="baller_off">BALLER_off</string>
     <string name="baller_on">BALLER_on</string>
+    <string name="search_league">Looking for a co-ed beginner league near you...</string>
+    <string name="textview">TextView</string>
 </resources>

@@ -1,8 +1,9 @@
-package com.allaneroc.swoosh
+package com.allaneroc.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import com.allaneroc.swoosh.R
 
 open class BaseActivity : AppCompatActivity() {
 
